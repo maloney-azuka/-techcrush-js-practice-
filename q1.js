@@ -1,7 +1,7 @@
 const myName = "Azuka"
 let myAge = 25
-let myBoolean = true
+let isStudent = true
 
 console.log(myName)
 console.log(myAge)
-console.log(myBoolean)
+console.log(isStudent)
